@@ -2,7 +2,7 @@ import React from "react";
 import "./Testimonials.css";
 
 function Terminials() {
-  return <div>Terminials</div>;
+  return <section id="testimonials">Terminials</section>;
 }
 
 export default Terminials;
