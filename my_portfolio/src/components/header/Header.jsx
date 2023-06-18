@@ -2,7 +2,7 @@ import CTA from "./CTA";
 import "./Header.css";
 import ME from "../../assets/me.png";
 import Socials from "./Socials";
-
+import ME1 from "../../assets/profile.png";
 function Header() {
   return (
     <header>
@@ -13,7 +13,7 @@ function Header() {
         <CTA />
         <Socials />
         <div className="me">
-          <img src={ME} alt="me" />
+          <img src={ME1} alt="me" />
         </div>
         <a href="#contact" className="scroll_down">
           Scroll Down
