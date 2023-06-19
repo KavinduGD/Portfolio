@@ -22,17 +22,17 @@ function about() {
             <article className="about_card">
               <FaAward className="about_icon" />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>2+ Years of undergraduate studies</small>
             </article>
             <article className="about_card">
               <FiUsers className="about_icon" />
-              <h5>Experience</h5>
-              <small>300+ Worldwide</small>
+              <h5>Main Skills</h5>
+              <small>Web Development</small>
             </article>
             <article className="about_card">
               <VscFolderLibrary className="about_icon" />
               <h5>Projects</h5>
-              <small>80+ Completed Projects</small>
+              <small>15+ Completed Projects</small>
             </article>
           </div>
           <p>

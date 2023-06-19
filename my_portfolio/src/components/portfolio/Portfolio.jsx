@@ -10,43 +10,45 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "Garment Manement System",
-    github: "https://github.com",
-    demo: "https://google.com",
+    title: "food Delivering App",
+    github: "https://github.com/KavinduGD/Mad-project",
+    demo: "https://www.facebook.com/100007350167429/videos/433744328909738/",
   },
   {
     id: 2,
-    image: IMG2,
-    title: "Trafic Police System",
-    github: "https://github.com",
-    demo: "https://google.com",
+    image: IMG5,
+    title: "Ayurvedic Product Site",
+    github: "https://github.com/CodeBrigade404/DS-MicroServices",
+    demo: "",
   },
   {
     id: 3,
     image: IMG3,
-    title: "Phone Shop System",
-    github: "https://github.com",
-    demo: "https://google.com",
+    title: "DriveSafeLK",
+    github: "https://github.com/CodeBrigade404/DriveSafeLK",
+    demo: "#",
   },
   {
     id: 4,
     image: IMG4,
-    title: "Education Mangement System",
-    github: "https://github.com",
+    title: "Video Streaming Site",
+    github:
+      "https://github.com/KavinduGD/Full-Stack-Development-with-Java-Spring-Boot-React-and-MongoDB-",
     demo: "https://google.com",
   },
   {
     id: 5,
-    image: IMG5,
+    image: IMG2,
     title: "Garment Manement System",
-    github: "https://github.com",
-    demo: "https://google.com",
+    github:
+      "https://github.com/Sahan-Dulanjaya/Garment_Factory_Management_System",
+    demo: "",
   },
   {
     id: 6,
     image: IMG6,
-    title: "Garment Manement System",
-    github: "https://github.com",
+    title: "Workout Buddy",
+    github: "https://github.com/KavinduGD/MERN-stack-with-JWT",
     demo: "https://google.com",
   },
 ];
@@ -54,7 +56,7 @@ function Portfolio() {
   return (
     <section id="portfolio">
       <h5>My Recent Works</h5>
-      <h2>Portfolio</h2>
+      <h2>Projects</h2>
       <div className="container portfolio_container">
         {data.map((item) => (
           <article key={item.id} className="portfolio_item">

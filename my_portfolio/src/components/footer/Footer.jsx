@@ -40,7 +40,7 @@ function Footer() {
         <a href="">
           <BsTwitter />
         </a>
-      </div>{" "}
+      </div>
       <div className="footer_copyright">
         <small>&copy; All rights reserved</small>
       </div>

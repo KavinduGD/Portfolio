@@ -1,17 +1,20 @@
 import { BsLinkedin } from "react-icons/bs";
 import { BsGithub } from "react-icons/bs";
-import { MdEmail } from "react-icons/md";
+import { BsFacebook } from "react-icons/bs";
 function Socials() {
   return (
     <div className="header_socials">
-      <a href="https://linkedin.com" target="_blank">
+      <a
+        href="https://www.linkedin.com/in/kavidu-gihan-28519b26b/"
+        target="_blank"
+      >
         <BsLinkedin />
       </a>
-      <a href="https://github.com" target="_blank">
+      <a href="https://github.com/KavinduGD" target="_blank">
         <BsGithub />
       </a>
-      <a href="https://mail.google.com/" target="_blank">
-        <MdEmail />
+      <a href="https://www.facebook.com/kavindu.gihan.9883" target="_blank">
+        <BsFacebook />
       </a>
     </div>
   );
