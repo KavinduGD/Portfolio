@@ -18,15 +18,15 @@ const data = [
     id: 2,
     image: IMG5,
     title: "Ayurvedic Product Site",
-    github: "https://github.com/CodeBrigade404/DS-MicroServices",
-    demo: "",
+    github: "https://github.com/KavinduGD/Seller-MERN",
+    demo: "https://seller-mern-admin.vercel.app/",
   },
   {
     id: 3,
     image: IMG3,
     title: "DriveSafeLK",
     github: "https://github.com/CodeBrigade404/DriveSafeLK",
-    demo: "#",
+    demo: "https://github.com/CodeBrigade404/DriveSafeLK",
   },
   {
     id: 4,
@@ -34,7 +34,7 @@ const data = [
     title: "Video Streaming Site",
     github:
       "https://github.com/KavinduGD/Full-Stack-Development-with-Java-Spring-Boot-React-and-MongoDB-",
-    demo: "https://google.com",
+    demo: "https://vedio-stream.vercel.app/",
   },
   {
     id: 5,
@@ -42,14 +42,14 @@ const data = [
     title: "Garment Manement System",
     github:
       "https://github.com/Sahan-Dulanjaya/Garment_Factory_Management_System",
-    demo: "",
+    demo: "https://github.com/Sahan-Dulanjaya/Garment_Factory_Management_System",
   },
   {
     id: 6,
     image: IMG6,
     title: "Workout Buddy",
     github: "https://github.com/KavinduGD/MERN-stack-with-JWT",
-    demo: "https://google.com",
+    demo: "https://workout-buddy-kavindu.vercel.app/signup",
   },
 ];
 function Portfolio() {
