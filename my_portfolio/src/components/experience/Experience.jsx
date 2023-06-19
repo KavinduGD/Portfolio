@@ -42,15 +42,15 @@ function Experience() {
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icons" />
               <div>
-                <h4>Material UI</h4>
+                <h4>React</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icons" />
               <div>
-                <h4>React</h4>
-                <small className="text-light">Experienced</small>
+                <h4>Material UI</h4>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
           </div>
@@ -90,6 +90,13 @@ function Experience() {
               <BsPatchCheckFill className="experience_details-icons" />
               <div>
                 <h4>Php</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icons" />
+              <div>
+                <h4>Spring Boot</h4>
                 <small className="text-light">Experienced</small>
               </div>
             </article>
