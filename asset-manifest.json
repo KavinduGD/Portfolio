@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.c746aa07.css",
-    "main.js": "/Portfolio/static/js/main.de28233c.js",
+    "main.js": "/Portfolio/static/js/main.de8643dd.js",
     "static/media/cv.pdf": "/Portfolio/static/media/cv.1676dcdc83730930d888.pdf",
     "static/media/me.png": "/Portfolio/static/media/me.821ecddcb9953b46bf75.png",
     "static/media/me-about.jpg": "/Portfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
-    "static/media/portfolio5.png": "/Portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
-    "static/media/portfolio2.jpg": "/Portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio6.jpg": "/Portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
-    "static/media/portfolio1.jpg": "/Portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/Portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio2.png": "/Portfolio/static/media/portfolio2.1567547d41808aba30f4.png",
+    "static/media/portfolio1.png": "/Portfolio/static/media/portfolio1.a7632c68085f1badd453.png",
+    "static/media/portfolio4.png": "/Portfolio/static/media/portfolio4.c1c4332eef0bae4dc24e.png",
+    "static/media/portfolio3.png": "/Portfolio/static/media/portfolio3.630ce0c8180dbd9bdbec.png",
+    "static/media/portfolio5.png": "/Portfolio/static/media/portfolio5.20f856c6cf19a40fec60.png",
+    "static/media/portfolio6.png": "/Portfolio/static/media/portfolio6.06a12742396ff2239690.png",
     "static/media/cartoon.avif": "/Portfolio/static/media/cartoon.68fe926a15a2b999a2c7.avif",
-    "static/media/portfolio4.jpg": "/Portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "static/media/profile.png": "/Portfolio/static/media/profile.a01f1e860b5602e9f534.png",
     "index.html": "/Portfolio/index.html",
     "main.c746aa07.css.map": "/Portfolio/static/css/main.c746aa07.css.map",
-    "main.de28233c.js.map": "/Portfolio/static/js/main.de28233c.js.map"
+    "main.de8643dd.js.map": "/Portfolio/static/js/main.de8643dd.js.map"
   },
   "entrypoints": [
     "static/css/main.c746aa07.css",
-    "static/js/main.de28233c.js"
+    "static/js/main.de8643dd.js"
   ]
 }
