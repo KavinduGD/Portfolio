@@ -8,108 +8,139 @@ function Services() {
       <div className="container service_container">
         <article className="service">
           <div className="service_head">
-            <h3>UI/UX Design</h3>
+            <h3>Frontend Development</h3>
           </div>
           <ul className="serrvice_list">
             <li>
               <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>
+                Website Development: Creating websites using modern web
+                technologies
+              </p>
             </li>
             <li>
               <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>
+                UI Design: Designing visually appealing interfaces for better
+                user experience
+              </p>
             </li>
             <li>
               <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>
+                Responsive Web Design: Building websites that adapt to different
+                devices
+              </p>
             </li>
             <li>
               <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>
+                Testing and Debugging: Identifying and fixing front-end issues
+              </p>
             </li>
             <li>
               <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>Website Maintenance: Providing ongoing support and updates</p>
             </li>
             <li>
               <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>
+                Collaboration with Back-End Developers: Working with back-end
+                teams
+              </p>
             </li>
           </ul>
         </article>
         {/*  */}
         <article className="service">
           <div className="service_head">
-            <h3>Web Development</h3>
+            <h3>Backend Development</h3>
           </div>
           <ul className="serrvice_list">
             <li>
               <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>
+                API Development: Creating interfaces to enable seamless
+                communication between software systems.
+              </p>
             </li>
             <li>
               <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>
+                Database Design and Management: Designing and maintaining
+                efficient data storage systems.
+              </p>
             </li>
             <li>
               <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>
+                Server-Side Programming: Writing code to handle requests and
+                process data on the server
+              </p>
             </li>
             <li>
               <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>
+                System Architecture: Designing the structure and components of
+                web applications.
+              </p>
             </li>
             <li>
               <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>
+                Security and Authentication: Implementing secure access controls
+                and user authentication mechanisms
+              </p>
             </li>
             <li>
               <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>
+                Integration with Third-Party Services: Connecting web
+                applications with external services or APIs
+              </p>
             </li>
             <li>
               <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>
+                Error Handling and Logging: Implementing error tracking and
+                logging mechanisms
+              </p>
             </li>
           </ul>
         </article>
         {/*  */}
         <article className="service">
           <div className="service_head">
-            <h3>Content Creation</h3>
+            <h3> Designer</h3>
           </div>
           <ul className="serrvice_list">
             <li>
               <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>
+                Wireframing: Designing low-fidelity layouts to visualize the
+                structure and content of a website or application
+              </p>
             </li>
             <li>
               <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>
+                Use Case Diagrams: Creating diagrams to depict interactions
+                between system users and functions
+              </p>
             </li>
             <li>
               <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>
+                Activity Diagrams: Designing diagrams to represent the flow of
+                activities or processes
+              </p>
             </li>
             <li>
               <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BsCheckLg className="service_list-icon" />
-              <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+              <p>
+                Entity-Relationship (ER) Diagrams: Creating visual
+                representations of database relationships
+              </p>
             </li>
           </ul>
         </article>

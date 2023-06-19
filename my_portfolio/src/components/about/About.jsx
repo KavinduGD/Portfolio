@@ -26,7 +26,7 @@ function about() {
             </article>
             <article className="about_card">
               <FiUsers className="about_icon" />
-              <h5>Main Skills</h5>
+              <h5>Main Skill</h5>
               <small>Web Development</small>
             </article>
             <article className="about_card">
@@ -36,10 +36,16 @@ function about() {
             </article>
           </div>
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nihil
-            perferendis porro voluptas eaque quia architecto quasi mollitia
-            exercitationem! Cumque et numquam adipisci aperiam non expedita
-            rerum suscipit facere officia accusamus.
+            I'm an aspiring software engineer currently undertaking my
+            undergraduate studies, specializing in software engineering. I
+            possess a solid understanding of JavaScript and Java complemented by
+            my proficiency in popular frameworks such as React, Node.js,
+            Express.js, and Spring Boot. Furthermore, I have hands-on experience
+            with Docker, Kubernetes, and Heroku, which enables me to deploy and
+            manage applications effectively. My true enthusiasm lies in working
+            closely with clients, fostering collaboration, and developing
+            innovative, scalable, and intuitive solutions that address practical
+            challenges.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
