@@ -99,13 +99,6 @@ function Services() {
                 applications with external services or APIs
               </p>
             </li>
-            <li>
-              <BsCheckLg className="service_list-icon" />
-              <p>
-                Error Handling and Logging: Implementing error tracking and
-                logging mechanisms
-              </p>
-            </li>
           </ul>
         </article>
         {/*  */}

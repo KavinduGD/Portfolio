@@ -10,28 +10,28 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "food Delivering App",
+    title: "food Delivering App  (JAVA)",
     github: "https://github.com/KavinduGD/Mad-project",
     demo: "https://www.facebook.com/100007350167429/videos/433744328909738/",
   },
   {
     id: 2,
     image: IMG5,
-    title: "Ayurvedic Product Site",
+    title: "Ayurvedic Product Site  (MERN)",
     github: "https://github.com/KavinduGD/Seller-MERN",
     demo: "https://seller-mern-admin.vercel.app/",
   },
   {
     id: 3,
     image: IMG3,
-    title: "DriveSafeLK",
+    title: "DriveSafeLK  (MERN)",
     github: "https://github.com/CodeBrigade404/DriveSafeLK",
-    demo: "https://github.com/CodeBrigade404/DriveSafeLK",
+    demo: "https://drivesafelk.vercel.app/dashboard",
   },
   {
     id: 4,
     image: IMG4,
-    title: "Video Streaming Site",
+    title: "Video Streaming Site  (Spring Boot",
     github:
       "https://github.com/KavinduGD/Full-Stack-Development-with-Java-Spring-Boot-React-and-MongoDB-",
     demo: "https://vedio-stream.vercel.app/",
@@ -39,7 +39,7 @@ const data = [
   {
     id: 5,
     image: IMG2,
-    title: "Garment Manement System",
+    title: "Garment Manement System  (MERN)",
     github:
       "https://github.com/Sahan-Dulanjaya/Garment_Factory_Management_System",
     demo: "https://github.com/Sahan-Dulanjaya/Garment_Factory_Management_System",
@@ -47,7 +47,7 @@ const data = [
   {
     id: 6,
     image: IMG6,
-    title: "Workout Buddy",
+    title: "Workout Buddy   (MERN)",
     github: "https://github.com/KavinduGD/MERN-stack-with-JWT",
     demo: "https://workout-buddy-kavindu.vercel.app/signup",
   },
