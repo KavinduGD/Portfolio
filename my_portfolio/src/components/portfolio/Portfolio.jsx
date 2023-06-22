@@ -39,10 +39,10 @@ const data = [
   {
     id: 5,
     image: IMG2,
-    title: "Garment Manement System  (MERN)",
+    title: "Netflix Clone  (React)",
     github:
       "https://github.com/Sahan-Dulanjaya/Garment_Factory_Management_System",
-    demo: "https://github.com/Sahan-Dulanjaya/Garment_Factory_Management_System",
+    demo: "https://netflix-a68d3.web.app/",
   },
   {
     id: 6,
