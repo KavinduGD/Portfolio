@@ -57,6 +57,7 @@ function Portfolio() {
     <section id="portfolio">
       <h5>My Recent Works</h5>
       <h2>Projects</h2>
+      <h5>Backend-servers are slow. It will take a moment to load</h5>
       <div className="container portfolio_container">
         {data.map((item) => (
           <article key={item.id} className="portfolio_item">

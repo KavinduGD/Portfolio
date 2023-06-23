@@ -41,11 +41,11 @@ function about() {
             possess a solid understanding of JavaScript and Java complemented by
             my proficiency in popular frameworks such as React, Node.js,
             Express.js, and Spring Boot. Furthermore, I have hands-on experience
-            with Docker, Kubernetes, and Heroku, which enables me to deploy and
-            manage applications effectively. My true enthusiasm lies in working
-            closely with clients, fostering collaboration, and developing
-            innovative, scalable, and intuitive solutions that address practical
-            challenges.
+            with Docker, Kubernetes, and Firebase, which enables me to deploy
+            and manage applications effectively. My true enthusiasm lies in
+            working closely with clients, fostering collaboration, and
+            developing innovative, scalable, and intuitive solutions that
+            address practical challenges.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
