@@ -1,8 +1,8 @@
 import CTA from "./CTA";
 import "./Header.css";
-import ME from "../../assets/me.png";
+import ME from "../../assets/me1.png";
 import Socials from "./Socials";
-import ME1 from "../../assets/profile.png";
+import ME1 from "../../assets/me1.png";
 function Header() {
   return (
     <header>
