@@ -50,6 +50,54 @@ const data = [
     github: "https://github.com/KavinduGD/MERN-stack-with-JWT",
     demo: "https://workout-buddy-kavindu.vercel.app/signup",
   },
+  {
+    id: 7,
+    image:
+      "https://res.cloudinary.com/dnoobzfxo/image/upload/v1702665254/Screenshot_2023-12-16_000315_cems80.png",
+    title: "Admin Dashboard  (React/Tailwind)",
+    github: "https://github.com/KavinduGD/Admin_Dash_Board",
+    demo: "https://admin-dash-board-psi.vercel.app/",
+  },
+  {
+    id: 8,
+    image:
+      "https://res.cloudinary.com/dnoobzfxo/image/upload/v1702665450/Screenshot_2023-12-16_000653_zpu0yo.png",
+    title: "Admin Dashboard  (React)",
+    github: "https://github.com/KavinduGD/Admin_Dash_Board_2",
+    demo: "https://admin-dash-board-2-seven.vercel.app/",
+  },
+  {
+    id: 9,
+    image:
+      "https://res.cloudinary.com/dnoobzfxo/image/upload/v1702666487/Screenshot_2023-12-16_002415_ocromb.png",
+    title: "Retail Admin Mangement (React/Node)",
+    github: "https://github.com/KavinduGD/retail_react",
+    demo: "https://retail-react.vercel.app/",
+  },
+  {
+    id: 10,
+    image:
+      "https://res.cloudinary.com/dnoobzfxo/image/upload/v1702666611/Screenshot_2023-12-16_002602_lxf2ry.png",
+    title: "Bus Ticket Admin (React/Node)",
+    github: "https://github.com/KavinduGD/bus_ticket_admin",
+    demo: "https://bus-ticket-admin-kavindu.vercel.app/",
+  },
+  {
+    id: 11,
+    image:
+      "https://res.cloudinary.com/dnoobzfxo/image/upload/v1702665435/Screenshot_2023-12-16_000233_hpmnur.png",
+    title: "Student Travel (Admin) (React/Node)",
+    github: "https://github.com/KavinduGD/KTS?tab=readme-ov-file",
+    demo: "https://kts-k3nn.vercel.app/",
+  },
+  {
+    id: 12,
+    image:
+      "https://res.cloudinary.com/dnoobzfxo/image/upload/v1702665256/Screenshot_2023-12-16_000240_nyrggr.png",
+    title: "Student Travel (User) (React/Node)",
+    github: "https://github.com/KavinduGD/KTS?tab=readme-ov-file",
+    demo: "https://kts-nine.vercel.app/",
+  },
 ];
 function Portfolio() {
   return (
